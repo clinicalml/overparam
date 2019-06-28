@@ -65,9 +65,12 @@ def main():
     matches, errors = evaluate_match_iterative(true_path, base_output_path, appendix_output_path, runs)
 
     runs = len(matches)
-    print 'Matches:', np.average(matches), '+-' + str(st.t.ppf(1.0 - (0.05 / 2.0), runs - 1) * st.sem(matches))
-    print 'Perfect:', np.sum([(x == 24) for x in matches]), np.average([(x == 24) for x in matches]), '+-' + str(st.t.ppf(1.0 - (0.05 / 2.0), runs - 1) * st.sem([(x == 24) for x in matches]))
-    print 'Errors:', np.average(errors), '+-' + str(st.t.ppf(1.0 - (0.05 / 2.0), runs - 1) * st.sem(errors))
+    print 'Matches:', matches
+    print 'Perfect:', np.sum([(x == 24) for x in matches])
+    print 'Errors:', errors
+#     print 'Matches:', np.average(matches), '+-' + str(st.t.ppf(1.0 - (0.05 / 2.0), runs - 1) * st.sem(matches))
+#     print 'Perfect:', np.sum([(x == 24) for x in matches]), np.average([(x == 24) for x in matches]), '+-' + str(st.t.ppf(1.0 - (0.05 / 2.0), runs - 1) * st.sem([(x == 24) for x in matches]))
+#     print 'Errors:', np.average(errors), '+-' + str(st.t.ppf(1.0 - (0.05 / 2.0), runs - 1) * st.sem(errors))
 
 if __name__ == "__main__":
    main()

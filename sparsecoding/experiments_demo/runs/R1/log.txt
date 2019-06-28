@@ -1,0 +1,401 @@
+{'relu_threshold': 0.005, 'step_size': 0.1, 'batch_size': 20, 'epochs': 200, 'seed': 433558, 'heldout': 100, 'save_every': 100}
+Epoch 0
+Reconstruction error (train, heldout) 0.19850052989372863 0.15666976070095573
+Epoch 1
+Reconstruction error (train, heldout) 0.14204378647690463 0.1190856517011039
+Epoch 2
+Reconstruction error (train, heldout) 0.11340942669996947 0.09906394816596276
+Epoch 3
+Reconstruction error (train, heldout) 0.0953458756278932 0.08397701320157694
+Epoch 4
+Reconstruction error (train, heldout) 0.08077855365091055 0.07167890173686048
+Epoch 5
+Reconstruction error (train, heldout) 0.06890624235392638 0.06175388791680105
+Epoch 6
+Reconstruction error (train, heldout) 0.05890042083137113 0.05327368805566403
+Epoch 7
+Reconstruction error (train, heldout) 0.0507453393281828 0.046508353048790384
+Epoch 8
+Reconstruction error (train, heldout) 0.044203994971524316 0.04094515110622985
+Epoch 9
+Reconstruction error (train, heldout) 0.03878904546442142 0.03652333142571893
+Epoch 10
+Reconstruction error (train, heldout) 0.03444465438723959 0.03272478109048608
+Epoch 11
+Reconstruction error (train, heldout) 0.030832591688865384 0.02956422816763116
+Epoch 12
+Reconstruction error (train, heldout) 0.027845506554313625 0.02685394700874712
+Epoch 13
+Reconstruction error (train, heldout) 0.025252775374738048 0.02457394424737763
+Epoch 14
+Reconstruction error (train, heldout) 0.02311008375164412 0.022629231471037254
+Epoch 15
+Reconstruction error (train, heldout) 0.021294586304165974 0.020942225249618914
+Epoch 16
+Reconstruction error (train, heldout) 0.019735263752505772 0.019486147821471712
+Epoch 17
+Reconstruction error (train, heldout) 0.018405408795856375 0.018195095139639378
+Epoch 18
+Reconstruction error (train, heldout) 0.017271319290018808 0.017043467001292226
+Epoch 19
+Reconstruction error (train, heldout) 0.01617204325927006 0.01608249819466325
+Epoch 20
+Reconstruction error (train, heldout) 0.015310936740546744 0.015205286736357378
+Epoch 21
+Reconstruction error (train, heldout) 0.014484270397926456 0.014455169690942743
+Epoch 22
+Reconstruction error (train, heldout) 0.013820383291641123 0.01377076365884784
+Epoch 23
+Reconstruction error (train, heldout) 0.01316998050134544 0.013186566840789284
+Epoch 24
+Reconstruction error (train, heldout) 0.012645283120117663 0.012661777558384189
+Epoch 25
+Reconstruction error (train, heldout) 0.012165278011214678 0.012185852270132337
+Epoch 26
+Reconstruction error (train, heldout) 0.011738439916533476 0.011760219117294928
+Epoch 27
+Reconstruction error (train, heldout) 0.011337869552077847 0.01137968639004363
+Epoch 28
+Reconstruction error (train, heldout) 0.010996357902844674 0.011031582891342621
+Epoch 29
+Reconstruction error (train, heldout) 0.010681528547297437 0.010717343928491423
+Epoch 30
+Reconstruction error (train, heldout) 0.010379155494389048 0.01043683796039257
+Epoch 31
+Reconstruction error (train, heldout) 0.01013687199975364 0.010174752736166187
+Epoch 32
+Reconstruction error (train, heldout) 0.009877573470798203 0.009939093957714147
+Epoch 33
+Reconstruction error (train, heldout) 0.009655535511945241 0.009725843702843958
+Epoch 34
+Reconstruction error (train, heldout) 0.009473763174009808 0.00952542812137451
+Epoch 35
+Reconstruction error (train, heldout) 0.009291465437995812 0.009340357869169327
+Epoch 36
+Reconstruction error (train, heldout) 0.009108722212275443 0.009173380375662721
+Epoch 37
+Reconstruction error (train, heldout) 0.008941775390079756 0.009019616543992175
+Epoch 38
+Reconstruction error (train, heldout) 0.008801377788613477 0.008876355092690313
+Epoch 39
+Reconstruction error (train, heldout) 0.008638040067415625 0.008747710272955334
+Epoch 40
+Reconstruction error (train, heldout) 0.008540884635195338 0.008619823018613165
+Epoch 41
+Reconstruction error (train, heldout) 0.008412894764411247 0.008503306711736798
+Epoch 42
+Reconstruction error (train, heldout) 0.008300150356229188 0.008393099981528686
+Epoch 43
+Reconstruction error (train, heldout) 0.008192895134499582 0.008288154669854471
+Epoch 44
+Reconstruction error (train, heldout) 0.008101534368286617 0.008187953134063121
+Epoch 45
+Reconstruction error (train, heldout) 0.00800623764069275 0.008092815306785692
+Epoch 46
+Reconstruction error (train, heldout) 0.00790172347347453 0.008005560487151517
+Epoch 47
+Reconstruction error (train, heldout) 0.007830036348218635 0.007918524324389794
+Epoch 48
+Reconstruction error (train, heldout) 0.0077344327955176165 0.007838841263640624
+Epoch 49
+Reconstruction error (train, heldout) 0.007682796202651578 0.007756374972279455
+Epoch 50
+Reconstruction error (train, heldout) 0.007584441214644409 0.0076816744646073
+Epoch 51
+Reconstruction error (train, heldout) 0.007520491197479138 0.0076090424887154465
+Epoch 52
+Reconstruction error (train, heldout) 0.007448470030586008 0.007539306047679603
+Epoch 53
+Reconstruction error (train, heldout) 0.007397188649367087 0.007468930348988644
+Epoch 54
+Reconstruction error (train, heldout) 0.007317413053955765 0.007404575528290329
+Epoch 55
+Reconstruction error (train, heldout) 0.007266619014889178 0.0073400606127063195
+Epoch 56
+Reconstruction error (train, heldout) 0.007197352030045992 0.007279800839244054
+Epoch 57
+Reconstruction error (train, heldout) 0.007126157660499252 0.007223783750176695
+Epoch 58
+Reconstruction error (train, heldout) 0.007080998864674516 0.007166806154440697
+Epoch 59
+Reconstruction error (train, heldout) 0.0070201977735514535 0.007113167804050497
+Epoch 60
+Reconstruction error (train, heldout) 0.0069646411747044815 0.007061122263127741
+Epoch 61
+Reconstruction error (train, heldout) 0.00692394267458944 0.007008147523916509
+Epoch 62
+Reconstruction error (train, heldout) 0.006873560965287267 0.006956628681037972
+Epoch 63
+Reconstruction error (train, heldout) 0.006834368524463333 0.006905129811205184
+Epoch 64
+Reconstruction error (train, heldout) 0.006777327546994798 0.006856670828250548
+Epoch 65
+Reconstruction error (train, heldout) 0.006733436297837773 0.006808537558182813
+Epoch 66
+Reconstruction error (train, heldout) 0.006674839973356795 0.006763603815835869
+Epoch 67
+Reconstruction error (train, heldout) 0.006635786283795218 0.0067181977919426065
+Epoch 68
+Reconstruction error (train, heldout) 0.006591846835540722 0.006674321481579082
+Epoch 69
+Reconstruction error (train, heldout) 0.006558592660574266 0.006629676168519712
+Epoch 70
+Reconstruction error (train, heldout) 0.006515451491523471 0.006586161526593192
+Epoch 71
+Reconstruction error (train, heldout) 0.006471681307267167 0.006544073060365589
+Epoch 72
+Reconstruction error (train, heldout) 0.006430074905736727 0.006503639192866647
+Epoch 73
+Reconstruction error (train, heldout) 0.006385320697887855 0.006463995579476567
+Epoch 74
+Reconstruction error (train, heldout) 0.0063585161054841004 0.0064231582123573236
+Epoch 75
+Reconstruction error (train, heldout) 0.006320353479929704 0.006383272527921997
+Epoch 76
+Reconstruction error (train, heldout) 0.006276224492529431 0.006344937865422607
+Epoch 77
+Reconstruction error (train, heldout) 0.006238112816573899 0.006307692412080567
+Epoch 78
+Reconstruction error (train, heldout) 0.0062109418853602515 0.0062698820431839756
+Epoch 79
+Reconstruction error (train, heldout) 0.006173442865242134 0.006232949991944134
+Epoch 80
+Reconstruction error (train, heldout) 0.0061382365272143816 0.00619639733876682
+Epoch 81
+Reconstruction error (train, heldout) 0.006098984842765971 0.006161886560376874
+Epoch 82
+Reconstruction error (train, heldout) 0.006072146014155985 0.006126719061523305
+Epoch 83
+Reconstruction error (train, heldout) 0.006045381809029222 0.006091170639561576
+Epoch 84
+Reconstruction error (train, heldout) 0.00600611239632613 0.006056825595749514
+Epoch 85
+Reconstruction error (train, heldout) 0.005963753130836054 0.0060241734404587535
+Epoch 86
+Reconstruction error (train, heldout) 0.0059503145611229016 0.005989781441994042
+Epoch 87
+Reconstruction error (train, heldout) 0.005912709237525049 0.005955887763285134
+Epoch 88
+Reconstruction error (train, heldout) 0.00587217052273617 0.0059243956077990444
+Epoch 89
+Reconstruction error (train, heldout) 0.005841095560541386 0.005893305838888502
+Epoch 90
+Reconstruction error (train, heldout) 0.005801059980273411 0.005864259121273534
+Epoch 91
+Reconstruction error (train, heldout) 0.005788964829151824 0.005832851330533429
+Epoch 92
+Reconstruction error (train, heldout) 0.005759112927903037 0.005802514288841194
+Epoch 93
+Reconstruction error (train, heldout) 0.005728013184631199 0.0057725438582232865
+Epoch 94
+Reconstruction error (train, heldout) 0.0057017450869384124 0.005742739332653565
+Epoch 95
+Reconstruction error (train, heldout) 0.005673118420242786 0.005712896591174278
+Epoch 96
+Reconstruction error (train, heldout) 0.005637046826514029 0.005684998295057407
+Epoch 97
+Reconstruction error (train, heldout) 0.0056184870657789735 0.0056563587522990375
+Epoch 98
+Reconstruction error (train, heldout) 0.005589039402417525 0.005628135541775829
+Epoch 99
+Reconstruction error (train, heldout) 0.005561448629087518 0.005600726070286257
+Epoch 100
+Reconstruction error (train, heldout) 0.0055418068436528444 0.005572503881182622
+Epoch 101
+Reconstruction error (train, heldout) 0.00550082731212436 0.005546525263856873
+Epoch 102
+Reconstruction error (train, heldout) 0.00548372394209505 0.005519865000170043
+Epoch 103
+Reconstruction error (train, heldout) 0.005457598528661983 0.005493472984054048
+Epoch 104
+Reconstruction error (train, heldout) 0.00542999057300084 0.005468086040773428
+Epoch 105
+Reconstruction error (train, heldout) 0.005407985628460058 0.005442585531111388
+Epoch 106
+Reconstruction error (train, heldout) 0.00539005492342681 0.0054160885246740805
+Epoch 107
+Reconstruction error (train, heldout) 0.005360697004948512 0.005390819998007685
+Epoch 108
+Reconstruction error (train, heldout) 0.005339990398441192 0.005365634075176769
+Epoch 109
+Reconstruction error (train, heldout) 0.005311061173562336 0.0053416027182257445
+Epoch 110
+Reconstruction error (train, heldout) 0.005288128165604749 0.005317769501099506
+Epoch 111
+Reconstruction error (train, heldout) 0.005261693037364703 0.005294557477011606
+Epoch 112
+Reconstruction error (train, heldout) 0.005244875341881071 0.005270811746418278
+Epoch 113
+Reconstruction error (train, heldout) 0.005217375279383668 0.005247974706466624
+Epoch 114
+Reconstruction error (train, heldout) 0.0051957851606453526 0.005225133156766295
+Epoch 115
+Reconstruction error (train, heldout) 0.005177163445384584 0.005201919808174225
+Epoch 116
+Reconstruction error (train, heldout) 0.005156659511237127 0.005178754484315322
+Epoch 117
+Reconstruction error (train, heldout) 0.005130531662196825 0.005156206157209451
+Epoch 118
+Reconstruction error (train, heldout) 0.005116251438188184 0.005132834822000458
+Epoch 119
+Reconstruction error (train, heldout) 0.0050883874330536144 0.0051103730963031405
+Epoch 120
+Reconstruction error (train, heldout) 0.005072666717405979 0.005087432442172964
+Epoch 121
+Reconstruction error (train, heldout) 0.005043542037822373 0.005066104136784728
+Epoch 122
+Reconstruction error (train, heldout) 0.005033777006585692 0.005043250698014696
+Epoch 123
+Reconstruction error (train, heldout) 0.005004830140162183 0.00502175610902778
+Epoch 124
+Reconstruction error (train, heldout) 0.0049851931529555525 0.005000653707232894
+Epoch 125
+Reconstruction error (train, heldout) 0.004966560515274743 0.004979130537878876
+Epoch 126
+Reconstruction error (train, heldout) 0.004947449665502115 0.004958017007502405
+Epoch 127
+Reconstruction error (train, heldout) 0.004925457980534819 0.0049373724902984275
+Epoch 128
+Reconstruction error (train, heldout) 0.004900984450684459 0.0049179444148905235
+Epoch 129
+Reconstruction error (train, heldout) 0.004877583172889266 0.004899106007479215
+Epoch 130
+Reconstruction error (train, heldout) 0.004869840505688745 0.004878922838807478
+Epoch 131
+Reconstruction error (train, heldout) 0.004851606453030449 0.004858803722639558
+Epoch 132
+Reconstruction error (train, heldout) 0.004829737756355783 0.0048388420366283205
+Epoch 133
+Reconstruction error (train, heldout) 0.004810803673353399 0.004819085112744095
+Epoch 134
+Reconstruction error (train, heldout) 0.004787939044260603 0.004800113302320287
+Epoch 135
+Reconstruction error (train, heldout) 0.004768921190335401 0.004781545813495455
+Epoch 136
+Reconstruction error (train, heldout) 0.004753530066970295 0.0047627445174991765
+Epoch 137
+Reconstruction error (train, heldout) 0.004733624245880998 0.0047441751854732615
+Epoch 138
+Reconstruction error (train, heldout) 0.004718894442816736 0.004725500116962206
+Epoch 139
+Reconstruction error (train, heldout) 0.004703477500921476 0.00470631344991139
+Epoch 140
+Reconstruction error (train, heldout) 0.004683199260830429 0.004687556237394155
+Epoch 141
+Reconstruction error (train, heldout) 0.004666222700068465 0.0046693318847220115
+Epoch 142
+Reconstruction error (train, heldout) 0.004648932519626648 0.004650769106432953
+Epoch 143
+Reconstruction error (train, heldout) 0.004625591803380593 0.004633377316327974
+Epoch 144
+Reconstruction error (train, heldout) 0.004612226191752015 0.004615790603567229
+Epoch 145
+Reconstruction error (train, heldout) 0.004593887907864179 0.0045982784463853565
+Epoch 146
+Reconstruction error (train, heldout) 0.004579546494623924 0.0045805298115133815
+Epoch 147
+Reconstruction error (train, heldout) 0.004565255095089295 0.004562603308915616
+Epoch 148
+Reconstruction error (train, heldout) 0.004544077783730966 0.004545278685864991
+Epoch 149
+Reconstruction error (train, heldout) 0.004530942421936878 0.004527793673014103
+Epoch 150
+Reconstruction error (train, heldout) 0.0045136824958432 0.004510349040744303
+Epoch 151
+Reconstruction error (train, heldout) 0.004497603012742517 0.004492891216712954
+Epoch 152
+Reconstruction error (train, heldout) 0.004479740905713556 0.004475886810338304
+Epoch 153
+Reconstruction error (train, heldout) 0.004462954879723585 0.0044589329975426055
+Epoch 154
+Reconstruction error (train, heldout) 0.004444736239160269 0.0044428579035433804
+Epoch 155
+Reconstruction error (train, heldout) 0.004427596699565272 0.004426843140534538
+Epoch 156
+Reconstruction error (train, heldout) 0.00441173012933395 0.004411138824686659
+Epoch 157
+Reconstruction error (train, heldout) 0.004401968258987925 0.004394844489823731
+Epoch 158
+Reconstruction error (train, heldout) 0.0043851219075313995 0.004378770095444723
+Epoch 159
+Reconstruction error (train, heldout) 0.004366527102673413 0.004363242744344334
+Epoch 160
+Reconstruction error (train, heldout) 0.004357004850174855 0.0043470404295914596
+Epoch 161
+Reconstruction error (train, heldout) 0.0043353894882755175 0.004332194015528444
+Epoch 162
+Reconstruction error (train, heldout) 0.004322797087639961 0.004317282622448294
+Epoch 163
+Reconstruction error (train, heldout) 0.004309178962516079 0.004302055668037888
+Epoch 164
+Reconstruction error (train, heldout) 0.004289020370399981 0.004287763785249103
+Epoch 165
+Reconstruction error (train, heldout) 0.004278299482771978 0.004272982983651499
+Epoch 166
+Reconstruction error (train, heldout) 0.004266370116642978 0.004258251574589151
+Epoch 167
+Reconstruction error (train, heldout) 0.004246388724120781 0.0042440110553811985
+Epoch 168
+Reconstruction error (train, heldout) 0.004239285859705051 0.004229311795291783
+Epoch 169
+Reconstruction error (train, heldout) 0.004217272437928426 0.004215672435742313
+Epoch 170
+Reconstruction error (train, heldout) 0.004208092427164287 0.00420120917884851
+Epoch 171
+Reconstruction error (train, heldout) 0.004192170491237246 0.004187433360187427
+Epoch 172
+Reconstruction error (train, heldout) 0.004182709102752945 0.004173389694061262
+Epoch 173
+Reconstruction error (train, heldout) 0.004166070252035523 0.00415985681276802
+Epoch 174
+Reconstruction error (train, heldout) 0.004148357679655008 0.004146756451337716
+Epoch 175
+Reconstruction error (train, heldout) 0.00413910210623551 0.004133341823725605
+Epoch 176
+Reconstruction error (train, heldout) 0.004122830749013288 0.0041205316672641885
+Epoch 177
+Reconstruction error (train, heldout) 0.00411153784058444 0.0041075272722699415
+Epoch 178
+Reconstruction error (train, heldout) 0.004100478966843855 0.00409451216476867
+Epoch 179
+Reconstruction error (train, heldout) 0.0040894090379028965 0.0040814996919857184
+Epoch 180
+Reconstruction error (train, heldout) 0.004072504192581026 0.004069474080053256
+Epoch 181
+Reconstruction error (train, heldout) 0.0040625972933711774 0.00405706702949023
+Epoch 182
+Reconstruction error (train, heldout) 0.004046282631077362 0.004045301561263548
+Epoch 183
+Reconstruction error (train, heldout) 0.004038434785022662 0.004032974404544154
+Epoch 184
+Reconstruction error (train, heldout) 0.004025982887274832 0.0040209930868230544
+Epoch 185
+Reconstruction error (train, heldout) 0.0040138707430126186 0.004008743451411426
+Epoch 186
+Reconstruction error (train, heldout) 0.003998580485341439 0.003996945264822362
+Epoch 187
+Reconstruction error (train, heldout) 0.003989900063802752 0.003985009843537977
+Epoch 188
+Reconstruction error (train, heldout) 0.003976070207502702 0.003973330118555177
+Epoch 189
+Reconstruction error (train, heldout) 0.003962245759195112 0.0039623117455674815
+Epoch 190
+Reconstruction error (train, heldout) 0.003951062084873879 0.003951315412593448
+Epoch 191
+Reconstruction error (train, heldout) 0.003939827749958169 0.003940578662879616
+Epoch 192
+Reconstruction error (train, heldout) 0.003928624844968519 0.003929779202251395
+Epoch 193
+Reconstruction error (train, heldout) 0.0039189352781455414 0.003918557278506797
+Epoch 194
+Reconstruction error (train, heldout) 0.00390569264386467 0.0039079219413341235
+Epoch 195
+Reconstruction error (train, heldout) 0.0038984052382039394 0.003896800432460617
+Epoch 196
+Reconstruction error (train, heldout) 0.0038849122250086154 0.0038860093831870673
+Epoch 197
+Reconstruction error (train, heldout) 0.0038731748227020537 0.0038756386077567983
+Epoch 198
+Reconstruction error (train, heldout) 0.0038617966018778278 0.0038654590204291487
+Epoch 199
+Reconstruction error (train, heldout) 0.003852422317436999 0.0038551334936662005

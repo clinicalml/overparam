@@ -1,0 +1,201 @@
+{'q_rate_factor': 1.0, 'p_learning_rate': 0.04, 'batch_size': 20, 'epochs': 100, 'input_dependent_centering': True, 'seed': 414942, 'C_alpha': 0.8, 'save_every': 100, 'c_learning_rate': 0.0001, 'C_size': 100, 'heldout': 100}
+Epoch 0
+Log likelihood (train, heldout) -45.6331733534 -38.6406066895
+Epoch 1
+Log likelihood (train, heldout) -37.9785257128 -34.215458374
+Epoch 2
+Log likelihood (train, heldout) -34.0141596646 -29.0774429321
+Epoch 3
+Log likelihood (train, heldout) -28.5203331672 -25.0506936646
+Epoch 4
+Log likelihood (train, heldout) -25.6059695095 -23.228661499
+Epoch 5
+Log likelihood (train, heldout) -23.3658844588 -21.0796365356
+Epoch 6
+Log likelihood (train, heldout) -21.7205909517 -20.108548584
+Epoch 7
+Log likelihood (train, heldout) -20.6455833647 -19.3077377319
+Epoch 8
+Log likelihood (train, heldout) -20.1960756471 -19.0320761108
+Epoch 9
+Log likelihood (train, heldout) -19.7027824529 -17.9969293213
+Epoch 10
+Log likelihood (train, heldout) -19.0914721807 -17.6784317017
+Epoch 11
+Log likelihood (train, heldout) -18.5413118617 -16.8470352173
+Epoch 12
+Log likelihood (train, heldout) -18.2954554791 -16.6048764038
+Epoch 13
+Log likelihood (train, heldout) -17.8129175568 -16.1724905396
+Epoch 14
+Log likelihood (train, heldout) -17.90763468 -16.3626330566
+Epoch 15
+Log likelihood (train, heldout) -17.5746505864 -15.8349084473
+Epoch 16
+Log likelihood (train, heldout) -17.024920133 -15.3783627319
+Epoch 17
+Log likelihood (train, heldout) -16.8251809777 -14.7523468018
+Epoch 18
+Log likelihood (train, heldout) -16.5179158571 -14.3783627319
+Epoch 19
+Log likelihood (train, heldout) -16.0368038644 -14.0057778931
+Epoch 20
+Log likelihood (train, heldout) -15.4691129515 -13.8715516663
+Epoch 21
+Log likelihood (train, heldout) -15.4237567584 -14.0922015381
+Epoch 22
+Log likelihood (train, heldout) -15.662164455 -14.087686615
+Epoch 23
+Log likelihood (train, heldout) -15.2017098194 -13.7592269897
+Epoch 24
+Log likelihood (train, heldout) -14.8921450806 -13.4668989563
+Epoch 25
+Log likelihood (train, heldout) -14.9401994451 -13.5236735535
+Epoch 26
+Log likelihood (train, heldout) -15.1418215307 -13.6482769775
+Epoch 27
+Log likelihood (train, heldout) -15.0397095362 -14.0491040039
+Epoch 28
+Log likelihood (train, heldout) -14.8476023399 -13.4500115967
+Epoch 29
+Log likelihood (train, heldout) -14.7108907064 -13.2626753235
+Epoch 30
+Log likelihood (train, heldout) -14.6982107141 -13.1222441101
+Epoch 31
+Log likelihood (train, heldout) -14.4252995088 -12.9965332031
+Epoch 32
+Log likelihood (train, heldout) -14.4911051835 -12.7724847412
+Epoch 33
+Log likelihood (train, heldout) -14.1598353937 -12.5626142883
+Epoch 34
+Log likelihood (train, heldout) -14.0782049285 -12.7197573853
+Epoch 35
+Log likelihood (train, heldout) -13.7920938047 -12.4909547424
+Epoch 36
+Log likelihood (train, heldout) -13.7947155423 -12.3854478455
+Epoch 37
+Log likelihood (train, heldout) -13.6622710843 -12.3780537415
+Epoch 38
+Log likelihood (train, heldout) -13.7363000997 -12.4979138184
+Epoch 39
+Log likelihood (train, heldout) -13.7323075199 -12.5167007446
+Epoch 40
+Log likelihood (train, heldout) -13.6362143156 -12.5937608337
+Epoch 41
+Log likelihood (train, heldout) -13.6058471319 -12.2408782959
+Epoch 42
+Log likelihood (train, heldout) -13.6899433019 -12.1146936798
+Epoch 43
+Log likelihood (train, heldout) -13.5329997253 -12.1000285339
+Epoch 44
+Log likelihood (train, heldout) -13.6701101006 -12.2838517761
+Epoch 45
+Log likelihood (train, heldout) -13.586072819 -12.2517905426
+Epoch 46
+Log likelihood (train, heldout) -13.4507793914 -12.262345047
+Epoch 47
+Log likelihood (train, heldout) -13.6156169266 -12.2098067474
+Epoch 48
+Log likelihood (train, heldout) -13.410124001 -12.2946483612
+Epoch 49
+Log likelihood (train, heldout) -13.4747090197 -12.486076355
+Epoch 50
+Log likelihood (train, heldout) -13.652877423 -12.5952893066
+Epoch 51
+Log likelihood (train, heldout) -13.4949159283 -12.3185457611
+Epoch 52
+Log likelihood (train, heldout) -13.4245587561 -12.0910453033
+Epoch 53
+Log likelihood (train, heldout) -13.3145480929 -12.0659380341
+Epoch 54
+Log likelihood (train, heldout) -13.3815142727 -12.3352324677
+Epoch 55
+Log likelihood (train, heldout) -13.4680130291 -12.4509171295
+Epoch 56
+Log likelihood (train, heldout) -13.4295043876 -12.1645996094
+Epoch 57
+Log likelihood (train, heldout) -13.5396472253 -11.9269167328
+Epoch 58
+Log likelihood (train, heldout) -13.4968585364 -12.0618604279
+Epoch 59
+Log likelihood (train, heldout) -13.400642305 -12.3159039307
+Epoch 60
+Log likelihood (train, heldout) -13.331807367 -11.9961381531
+Epoch 61
+Log likelihood (train, heldout) -13.4163162682 -12.1978533173
+Epoch 62
+Log likelihood (train, heldout) -13.365199879 -12.148846817
+Epoch 63
+Log likelihood (train, heldout) -13.4740142043 -12.1624025726
+Epoch 64
+Log likelihood (train, heldout) -13.3824128294 -12.0687230682
+Epoch 65
+Log likelihood (train, heldout) -13.5372709465 -11.9358250427
+Epoch 66
+Log likelihood (train, heldout) -13.4347297928 -12.585462265
+Epoch 67
+Log likelihood (train, heldout) -13.3651452933 -12.4724503326
+Epoch 68
+Log likelihood (train, heldout) -13.3594093201 -11.9580667877
+Epoch 69
+Log likelihood (train, heldout) -13.2339502774 -12.1751024628
+Epoch 70
+Log likelihood (train, heldout) -13.3008715179 -12.3507679749
+Epoch 71
+Log likelihood (train, heldout) -13.3051809544 -12.188690033
+Epoch 72
+Log likelihood (train, heldout) -13.3642249176 -12.0929702759
+Epoch 73
+Log likelihood (train, heldout) -13.4680494218 -12.2347512817
+Epoch 74
+Log likelihood (train, heldout) -13.3201183505 -12.4665293121
+Epoch 75
+Log likelihood (train, heldout) -13.3744361358 -12.4009732819
+Epoch 76
+Log likelihood (train, heldout) -13.3643053193 -12.7223368835
+Epoch 77
+Log likelihood (train, heldout) -13.3269712734 -12.0606331635
+Epoch 78
+Log likelihood (train, heldout) -13.2483116759 -12.3450804901
+Epoch 79
+Log likelihood (train, heldout) -13.2445110755 -12.2663972473
+Epoch 80
+Log likelihood (train, heldout) -13.2328321698 -12.0199913025
+Epoch 81
+Log likelihood (train, heldout) -13.2320289681 -12.1978035736
+Epoch 82
+Log likelihood (train, heldout) -13.302985661 -11.8453139877
+Epoch 83
+Log likelihood (train, heldout) -13.3254174487 -12.2450305557
+Epoch 84
+Log likelihood (train, heldout) -13.2544820748 -12.1039171982
+Epoch 85
+Log likelihood (train, heldout) -13.2669475402 -12.0856995392
+Epoch 86
+Log likelihood (train, heldout) -13.166699426 -11.975854454
+Epoch 87
+Log likelihood (train, heldout) -13.2383705513 -12.0256695938
+Epoch 88
+Log likelihood (train, heldout) -13.194447026 -11.9335526276
+Epoch 89
+Log likelihood (train, heldout) -13.2371941422 -11.9442334747
+Epoch 90
+Log likelihood (train, heldout) -13.2561974514 -11.9030924988
+Epoch 91
+Log likelihood (train, heldout) -13.219524352 -11.9141530991
+Epoch 92
+Log likelihood (train, heldout) -13.1077253418 -11.9286154938
+Epoch 93
+Log likelihood (train, heldout) -13.156482323 -11.967360363
+Epoch 94
+Log likelihood (train, heldout) -13.1399575369 -11.941221447
+Epoch 95
+Log likelihood (train, heldout) -13.1969318616 -11.857303791
+Epoch 96
+Log likelihood (train, heldout) -13.0836562247 -11.8077393913
+Epoch 97
+Log likelihood (train, heldout) -13.229462726 -11.8932231712
+Epoch 98
+Log likelihood (train, heldout) -13.1215575094 -11.8932191086
+Epoch 99
+Log likelihood (train, heldout) -13.1078618692 -12.0872899628

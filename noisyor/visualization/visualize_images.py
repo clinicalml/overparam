@@ -28,4 +28,5 @@ plt.imshow(
 plt.xticks([], [])
 plt.yticks([], [])
 
-plt.show()
+# plt.show()
+plt.savefig(sys.argv[2], format='png')

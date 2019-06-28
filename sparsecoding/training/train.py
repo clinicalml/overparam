@@ -15,7 +15,7 @@ config = {
     'batch_size': 20,
     'relu_threshold': 0.005,
     'save_every': 100,
-    'epochs': 1000,
+    'epochs': 200,
     'heldout': 100
 }
 batch_size = config['batch_size']

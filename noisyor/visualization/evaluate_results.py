@@ -94,8 +94,9 @@ def main():
     # print 'Filtered perfect matches:', np.sum([(x[1] == true_dim_latent and x[2] == true_dim_latent) for x in filtered_matches])
     # print 'Extra in perfect:', np.sum([(filtered_matches[x][0] != true_dim_latent and matches[x] == true_dim_latent) for x in range(len(filtered_matches))])
 
-    print 'Matches', matches
-    print 'Perfect', [(x == true_dim_latent) for x in matches]
+    print 'Matches:', matches
+    print 'Perfect:', [(x == true_dim_latent) for x in matches]
+    print 'Log-likelihood:', ll
 
 
 if __name__ == "__main__":
