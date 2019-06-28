@@ -43,7 +43,7 @@ def generate_correlated(N, K_half, angle):
     return A
 
 # A = generate_gaussian_unit(100, 24)
-A = generate_correlated(100, 12, 5.0 * (2 * np.pi / 360.0)) # A.shape = (100, 24)
+A = generate_correlated(100, 12, 10.0 * (2 * np.pi / 360.0)) # A.shape = (100, 24)
 
 # Printing the matrix
 os.makedirs(matrix_name + '/true_params')
