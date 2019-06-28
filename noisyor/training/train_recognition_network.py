@@ -48,7 +48,7 @@ config = {
     'C_size': 100,
     'batch_size': 20,
     'save_every': 100,
-    'epochs': 100,
+    'epochs': 1000,
     'heldout': 100,
     'input_dependent_centering': True,
 }
