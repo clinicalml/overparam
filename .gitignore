@@ -1,1 +1,5 @@
+noisyor/experiments_demo
+noisyor/sampling/*.o
+noisyor/sampling/sample
+sparsecoding/experiments_demo
 .DS_Store
