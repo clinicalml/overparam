@@ -1,6 +1,6 @@
 ## Neural PCFG Experiments
 
-We use the same dataset/preprocessing from the [compound PCFG repo](https://github.com/harvardnlp/compoun-pcfg), which is available here [here](https://drive.google.com/file/d/1m4ssitfkWcDSxAE6UYidrP6TlUctSG2D/view?usp=sharing).
+We use the same dataset/preprocessing from the [compound PCFG repo](https://github.com/harvardnlp/compound-pcfg), which is available here [here](https://drive.google.com/file/d/1m4ssitfkWcDSxAE6UYidrP6TlUctSG2D/view?usp=sharing).
 
 After downloading, run the preprocessing script
 ```
