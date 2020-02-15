@@ -11,7 +11,7 @@ class MeanFieldModel(nn.Module):
     # Output is the negative log-likelihood of the latent variables.
     def forward(self, latent):
         batch_size = latent.shape[0]
-        nll = torch.sum(nn.BCELoss(reduce=False)(self.parameters.repeat(batch_size, 1), latent), 1)
+        nll = torch.sum(nn.BCELoss(reduction='none')(self.parameters.repeat(batch_size, 1), latent), 1)
         return nll
 
 def sample_from_mean_field_model(Q, batch_size):

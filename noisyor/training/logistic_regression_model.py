@@ -18,7 +18,7 @@ class LogisticRegressionModel(nn.Module):
     def forward(self, latent, observed):
         batch_size = latent.shape[0]
         hidden_probability_one = torch.sigmoid(torch.matmul(observed, self.weight_parameters) + self.bias_parameters.repeat(batch_size, 1))
-        conditional = torch.sum(nn.BCELoss(reduce=False)(hidden_probability_one, latent), 1)
+        conditional = torch.sum(nn.BCELoss(reduction='none')(hidden_probability_one, latent), 1)
         return conditional
 
 def sample_from_logistic_regression_model(Q, observed):

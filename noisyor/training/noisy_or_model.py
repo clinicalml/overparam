@@ -21,11 +21,11 @@ class NoisyOrModel(nn.Module):
         batch_size = latent.shape[0]
 
         batch_prior_parameters = torch.sigmoid(self.prior_parameters).repeat(batch_size, 1)
-        prior = torch.sum(nn.BCELoss(reduce=False)(batch_prior_parameters, latent), 1)
+        prior = torch.sum(nn.BCELoss(reduction='none')(batch_prior_parameters, latent), 1)
 
         observed_probability_zero = torch.matmul(latent, torch.log(torch.sigmoid(self.failure_parameters)))
         observed_probability_zero = observed_probability_zero + torch.log(torch.sigmoid(self.noise_parameters)).repeat(batch_size, 1)
         observed_probability_one = torch.full((batch_size, self.dim_observed), 1.0) - torch.exp(observed_probability_zero)
-        conditional = torch.sum(nn.BCELoss(reduce=False)(observed_probability_one, observed), 1)
+        conditional = torch.sum(nn.BCELoss(reduction='none')(observed_probability_one, observed), 1)
 
         return prior + conditional
